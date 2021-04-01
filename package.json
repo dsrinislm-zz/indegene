@@ -1,0 +1,15 @@
+{
+  "name": "indegene",
+  "version": "1.0.0",
+  "description": "interview mockup",
+  "main": "index.html",
+  "author": "Srinivasan Dhanapal",
+  "license": "MIT",
+  "scripts": {
+    "start": "parcel serve index.html",
+    "dist": "yarn parcel index.html"
+  },
+  "devDependencies": {
+    "parcel": "^2.0.0-beta.2"
+  }
+}

@@ -1,0 +1,51 @@
+@font-face {
+  font-family: 'BeautifulEveryTime';
+  src: url('./../font/BeautifulEveryTime.eot');
+  src: url('./../font/BeautifulEveryTime.eot?#iefix')
+      format('embedded-opentype'),
+    url('./../font/BeautifulEveryTime.woff2')
+      format('woff2'),
+    url('./../font/BeautifulEveryTime.woff') format('woff'),
+    url('./../font/BeautifulEveryTime.ttf')
+      format('truetype'),
+    url('./../font/BeautifulEveryTime.otf')
+      format('opentype'),
+    url('./../font/BeautifulEveryTime.svg#BeautifulEveryTime')
+      format('svg');
+  font-weight: 400;
+  font-style: normal;
+  font-stretch: normal;
+  unicode-range: U+0020-02DC;
+}
+@font-face {
+  font-family: 'DIN';
+  src: url('./../font/DIN-Regular.eot');
+  src: url('./../font/DIN-Regular.eot?#iefix')
+      format('embedded-opentype'),
+    url('./../font/DIN-Regular.woff2') format('woff2'),
+    url('./../font/DIN-Regular.woff') format('woff'),
+    url('./../font/DIN-Regular.ttf') format('truetype'),
+    url('./../font/DIN-Regular.otf') format('opentype'),
+    url('./../font/DIN-Regular.svg#DIN-Regular')
+      format('svg');
+  font-weight: 400;
+  font-style: normal;
+  font-stretch: normal;
+  unicode-range: U+0020-02DC;
+}
+@font-face {
+  font-family: 'DINPro-Bold';
+  src: url('./../font/DINPro-Bold.eot');
+  src: url('./../font/DINPro-Bold.eot?#iefix')
+      format('embedded-opentype'),
+    url('./../font/DINPro-Bold.woff2') format('woff2'),
+    url('./../font/DINPro-Bold.woff') format('woff'),
+    url('./../font/DINPro-Bold.ttf') format('truetype'),
+    url('./../font/DINPro-Bold.otf') format('opentype'),
+    url('./../font/DINPro-Bold.svg#DINPro-Bold')
+      format('svg');
+  font-weight: 800;
+  font-style: normal;
+  font-stretch: normal;
+  unicode-range: U+0020-02DC;
+}
